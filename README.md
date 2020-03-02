@@ -7,10 +7,12 @@ Answers available on QUESTION_1.md
 
 To run test
 
-prerequisites
+### Prerequisites
 
-Java 11
-Maven 3.6.3
+1. Java 11
+2. Maven 3.6.3
+
+From root of directory run
 
 ```
 mvn test
